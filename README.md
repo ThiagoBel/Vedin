@@ -33,6 +33,16 @@
 </div>
 
 <div style="border: 1px solid white; padding: 10px;">
+<div style="border: 1px solid white; padding: 10px; margin-bottom: 20px;">
+<h3 align="center">Requesitos para funcionar</h3>
+
+<ul>
+    <li>Tenha o Java instalado</li>
+    <li>Apenas Windows</li>
+</ul>
+</div>
+
+<div style="border: 1px solid white; padding: 10px;">
 <h3 align="center">Arquivos</h3>
 
 <h4 style="color: green">Pode ler:</h4>
