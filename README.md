@@ -17,8 +17,8 @@
 <ol>
     <li>Baixe a pasta.</li>
     <li>Entre na pasta.</li>
-    <li>Clique no aplicativo chamado: <b style="color: green">Vedin</b> (Vedin.exe).</li>
-    <li>Um alerta aparecerá dizendo que não é um antivírus, e sim um identificador de palavras maliciosas/suspeitas. (Aperte 'Ok')</li>
+    <li>Clique no aplicativo chamado: <b style="color: green">Inicializador</b> (Inicializador.exe).</li>
+    <li>Um alerta aparecerá dizendo que não é um antivírus, e sim um identificador de palavras maliciosas/suspeitas. (Aperte 'Ok').</li>
     <li>Depois, aperte em 'Iniciar' e escolha o seu arquivo.</li>
 </ol>
 </div>
@@ -46,7 +46,7 @@
 <h3 align="center">Arquivos</h3>
 
 <h4 style="color: green">Pode ler:</h4>
-<p>.cpp, .cxx, .c++, .c, .csharp, .java, .py, .r, .hpp, .h, .cc, .C, .asm, .m, .csv, .txt, .json, .xml, .yaml, .yml, .bin, .dat, .obj, .bmp, .jpg, .jpeg, .png, .gif, .md, .log, .sql, etc.</p>
+<p>.cpp, .cxx, .c++, .c, .csharp, .java, .py, .r, .hpp, .h, .cc, .C, .asm, .m, .csv, .txt, .json, .xml, .yaml, .yml, .bin, .dat, .obj, .bmp, .md, .log, .sql, etc.</p>
 
 <h4 style="color: red">Não pode ler:</h4>
 <p>.exe, .dll, .so, .class, .jar, .o, .pdb, .lib, .apk, .app, .bin, .iso, .dmg, .zip, .rar, .tar, .7z, .tgz, .xz, .img, etc.</p>
