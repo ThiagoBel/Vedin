@@ -17,7 +17,7 @@
 <ol>
     <li>Baixe a pasta.</li>
     <li>Entre na pasta.</li>
-    <li>Clique no aplicativo chamado: <b style="color: green">Inicializador</b> (Inicializador.exe).</li>
+    <li>Clique no aplicativo chamado: <b style="color: green">Vedin</b> (Vedin.exe).</li>
     <li>Um alerta aparecerá dizendo que não é um antivírus, e sim um identificador de palavras maliciosas/suspeitas. (Aperte 'Ok').</li>
     <li>Depois, aperte em 'Iniciar' e escolha o seu arquivo.</li>
 </ol>
