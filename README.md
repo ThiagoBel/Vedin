@@ -34,7 +34,7 @@
 
 <div style="border: 1px solid white; padding: 10px;">
 <div style="border: 1px solid white; padding: 10px; margin-bottom: 20px;">
-<h3 align="center">Requesitos para funcionar</h3>
+<h3 align="center">Requisitos para funcionar</h3>
 
 <ul>
     <li>Tenha o Java instalado</li>
