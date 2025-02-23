@@ -37,7 +37,7 @@
 <h3 align="center">Requesitos para funcionar</h3>
 
 <ul>
-    <li>Tenha o Java instalado</li>
+    <li>Tenha o Java instalado (min: 23.0.2)</li>
     <li>Apenas Windows</li>
 </ul>
 </div>
